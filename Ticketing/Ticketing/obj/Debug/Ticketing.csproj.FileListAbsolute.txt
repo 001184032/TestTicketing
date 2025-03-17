@@ -72,3 +72,13 @@ C:\Users\ferra\OneDrive - TAFE SA\ICTICT449\Practical Test Preparation\Practical
 C:\Users\ferra\OneDrive - TAFE SA\ICTICT449\Practical Test Preparation\Practical Test Preparation\Student Files\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.CoreCompileInputs.cache
 C:\Users\ferra\OneDrive - TAFE SA\ICTICT449\Practical Test Preparation\Practical Test Preparation\Student Files\Ticketing\Ticketing\obj\Debug\Ticketing.exe
 C:\Users\ferra\OneDrive - TAFE SA\ICTICT449\Practical Test Preparation\Practical Test Preparation\Student Files\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
+C:\myTestTicketing\TestTicketing\Ticketing\Ticketing\bin\Debug\Ticketing.exe.config
+C:\myTestTicketing\TestTicketing\Ticketing\Ticketing\bin\Debug\Ticketing.exe
+C:\myTestTicketing\TestTicketing\Ticketing\Ticketing\bin\Debug\Ticketing.pdb
+C:\myTestTicketing\TestTicketing\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.AssemblyReference.cache
+C:\myTestTicketing\TestTicketing\Ticketing\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+C:\myTestTicketing\TestTicketing\Ticketing\Ticketing\obj\Debug\Ticketing.TicketsForm.resources
+C:\myTestTicketing\TestTicketing\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.GenerateResource.cache
+C:\myTestTicketing\TestTicketing\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.CoreCompileInputs.cache
+C:\myTestTicketing\TestTicketing\Ticketing\Ticketing\obj\Debug\Ticketing.exe
+C:\myTestTicketing\TestTicketing\Ticketing\Ticketing\obj\Debug\Ticketing.pdb

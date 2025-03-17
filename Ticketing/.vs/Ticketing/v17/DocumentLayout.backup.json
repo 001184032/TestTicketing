@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ferra\\OneDrive - TAFE SA\\ICTICT449\\Practical Test Preparation\\Practical Test Preparation\\Student Files\\Ticketing\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\myTestTicketing\\TestTicketing\\Ticketing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA18598-CAB2-48D7-AEFE-1B25B3376F48}|Ticketing\\Ticketing.csproj|c:\\mytestticketing\\testticketing\\ticketing\\ticketing\\ticketprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA18598-CAB2-48D7-AEFE-1B25B3376F48}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\ticketprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA18598-CAB2-48D7-AEFE-1B25B3376F48}|Ticketing\\Ticketing.csproj|C:\\myTestTicketing\\TestTicketing\\Ticketing\\ticketing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA18598-CAB2-48D7-AEFE-1B25B3376F48}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\myTestTicketing\\TestTicketing\\Ticketing\\Ticketing\\Program.cs",
+              "RelativeDocumentMoniker": "Ticketing\\Program.cs",
+              "ToolTip": "C:\\myTestTicketing\\TestTicketing\\Ticketing\\Ticketing\\Program.cs",
+              "RelativeToolTip": "Ticketing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:47:47.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketPrice.cs",
+              "DocumentMoniker": "C:\\myTestTicketing\\TestTicketing\\Ticketing\\Ticketing\\TicketPrice.cs",
+              "RelativeDocumentMoniker": "Ticketing\\TicketPrice.cs",
+              "ToolTip": "C:\\myTestTicketing\\TestTicketing\\Ticketing\\Ticketing\\TicketPrice.cs",
+              "RelativeToolTip": "Ticketing\\TicketPrice.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:47:31.066Z",
+              "EditorCaption": ""
             }
           ]
         }
