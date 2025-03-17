@@ -17,7 +17,7 @@ namespace Ticketing
         const decimal mdecBalcony = 40.8m;
         const decimal mdecGeneral = 50.7m;
         const decimal mdecBox = 62.0m;
-        const decimal mdecDiscount = 5.0m; 
+        const decimal mdecDiscount = 10.0m; 
 
         private int Section
         {
